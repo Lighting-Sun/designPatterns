@@ -1,0 +1,11 @@
+org\example\AbstractComponents\SearchFlightAvailability.class
+org\example\PageComponents\FooterNavigation.class
+org\example\AbstractComponents\StrategyFactory.class
+org\example\AbstractComponents\AbstractComponent.class
+org\example\PageComponents\RoundTrip.class
+org\example\PageComponents\NavigationBar.class
+org\example\PageObjects\TravelHomePage.class
+org\example\PageComponents\MultiTrip.class
+org\example\DataLoads\DataReader$1.class
+org\example\App.class
+org\example\DataLoads\DataReader.class
