@@ -6,7 +6,7 @@
 
   <groupId>org.example</groupId>
   <artifactId>SingleResponsibilityPrinciple</artifactId>
-  <version>1.01-SNAPSHOT</version>
+  <version>1.02-SNAPSHOT</version>
 
   <name>SingleResponsibilityPrinciple</name>
   <!-- FIXME change it to the project's website -->
